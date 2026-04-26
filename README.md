@@ -19,4 +19,4 @@ This is an ImGui overlay built with D3D11, designed to be easily expandable to o
 
 ## Disclaimer
 
-This project is intended strictly for educational purposes. It demonstrates techniques for DirectX 11 overlay rendering and external process memory visualisation. 
+This project is intended strictly for educational purposes. It demonstrates techniques for DirectX 11 overlay rendering and external process memory visualisation. Tested in offline mode ONLY!
