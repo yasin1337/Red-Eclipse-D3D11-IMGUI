@@ -1,0 +1,16 @@
+# Backups
+_backup_*/
+
+.vs/
+x64/
+x86/
+*.user
+*.aps
+*.pdb
+*.obj
+*.log
+*.tlog
+*.lastbuildstate
+*.idb
+*.exe
+*.dll
